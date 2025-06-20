@@ -1,0 +1,3 @@
+tellurium
+matplotlib
+numpy
