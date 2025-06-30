@@ -1,6 +1,6 @@
 # Toggle Memory Biosensor (IPTG Triggered)
 
-This project simulates a genetic toggle switch that can store memory of a signal — in this case, IPTG. Once triggered, the circuit flips into an ON state and stays there, even after the signal is removed. This kind of behavior is useful in biosensors, diagnostics, and environmental monitoring tools.
+This project simulates a genetic toggle switch that can store memory of a signal — in this case, IPTG. Once triggered, the circuit flips into an ON state and stays there, even after the signal is removed. This kind of behavior is useful in biosensors, diagnostics, and environmental monitoring tools. 
 
 ## Overview
 
